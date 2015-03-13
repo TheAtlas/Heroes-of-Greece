@@ -1,0 +1,6 @@
+C:\Users\69479\Desktop\Eindproject\Classes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\69479\Desktop\Eindproject\Classes\obj\x86\Debug\EindprojectEngine.csprojResolveAssemblyReference.cache
+C:\Users\69479\Desktop\Eindproject\Classes\bin\x86\Debug\EindprojectEngine.dll
+C:\Users\69479\Desktop\Eindproject\Classes\bin\x86\Debug\EindprojectEngine.pdb
+C:\Users\69479\Desktop\Eindproject\Classes\obj\x86\Debug\EindprojectEngine.dll
+C:\Users\69479\Desktop\Eindproject\Classes\obj\x86\Debug\EindprojectEngine.pdb

@@ -1,0 +1,5 @@
+C:\Users\69479\Desktop\Eindproject\Classes\bin\x86\Debug\Classes.dll
+C:\Users\69479\Desktop\Eindproject\Classes\bin\x86\Debug\Classes.pdb
+C:\Users\69479\Desktop\Eindproject\Classes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\69479\Desktop\Eindproject\Classes\obj\x86\Debug\Classes.dll
+C:\Users\69479\Desktop\Eindproject\Classes\obj\x86\Debug\Classes.pdb
